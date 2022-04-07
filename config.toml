@@ -11,7 +11,7 @@ themesDir = "../.."
 
 # website title
 # 网站标题
-title = "DARK MATTER"
+title = "LoveIt"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -1123,4 +1123,3 @@ enableEmoji = true
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
-
