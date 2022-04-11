@@ -1,4 +1,4 @@
-baseURL = "https://keishitsuboi.github.io"
+baseURL = "https://keishitsuboi.github.io/dark_matter/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -8,6 +8,8 @@ theme = "LoveIt"
 # themes directory
 # 主题目录
 themesDir = "../.."
+publishDir = "docs"
+
 
 # website title
 # 网站标题
@@ -635,7 +637,7 @@ enableEmoji = true
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
-  images = ["/image/dark_matter_logo.png"]
+  images = ["/images/dark_matter_logo.png"]
 
   # Header config
   # 页面头部导航栏配置

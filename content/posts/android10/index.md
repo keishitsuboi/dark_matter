@@ -4,7 +4,7 @@ title: "ファイルベースの暗号化（FBE）されたAndroid10のエミュ
 subtitle: ""
 date: 2021-08-03T18:02:06+09:00
 lastmod: 2021-08-03T18:02:06+09:00
-draft: true
+draft: false
 author: "Nagaoka"
 
 description: ""
@@ -15,8 +15,12 @@ categories: []
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "/android10/dark_matter.png"
-featuredImagePreview: "/android10/dark_matter.png"
+featuredImage: "dark_matter.png"
+featuredImagePreview: "dark_matter.png"
+
+resources:
+- name: "dark_matter.png"
+  src: "dark_matter.png"
 
 toc:
   enable: true

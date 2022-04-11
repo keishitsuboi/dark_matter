@@ -4,7 +4,7 @@ title: "破壊・フォーマットされたUSBメモリからデータを復旧
 subtitle: ""
 date: 2021-12-03T17:07:29+09:00
 lastmod: 2022-12-03T17:07:29+09:00
-draft: true
+draft: false
 author: "teshima"
 description: ""
 
@@ -16,8 +16,8 @@ hiddenFromSearch: false
 resources:
 
 
-featuredImage: "/破壊/nand_controller.jpg"
-featuredImagePreview: "/破壊/nand_controller.jpg"
+featuredImage: "nand_controller.jpg"
+featuredImagePreview: "nand_controller.jpg"
 
 toc:
   enable: true
