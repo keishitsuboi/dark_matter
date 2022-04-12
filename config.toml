@@ -9,6 +9,7 @@ theme = "LoveIt"
 # 主题目录
 themesDir = "../.."
 publishDir = "docs"
+canonifyurls = true
 
 
 # website title
