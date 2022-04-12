@@ -10,7 +10,7 @@
     <author>Author</author>
     <guid>https://keishitsuboi.github.io/dark_matter/%E7%A0%B4%E5%A3%8A/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/dark_matter/nand_controller.jpg" referrerpolicy="no-referrer">
+                <img src="/nand_controller.jpg" referrerpolicy="no-referrer">
             </div><p>こんにちは、技術部の手島です。
 弊社では、脆弱性診断サービスの１つとして組み込み機器診断を行っていますが、その作業の一つとして記憶媒体からファームウェアを読み出す作業があります。この目的で弊社ではデータ復旧装置を保有しており、技能維持トレーニングを行っている様子を紹介します。</p>]]></description>
 </item></channel>
