@@ -2,21 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://keishitsuboi.github.io/dark_matter/en/sitemap.xml</loc>
+    <loc>https://example.org/en/sitemap.xml</loc>
     
       <lastmod>2022-12-03T17:07:29+09:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://keishitsuboi.github.io/dark_matter/zh-cn/sitemap.xml</loc>
+    <loc>https://example.org/zh-cn/sitemap.xml</loc>
     
       <lastmod>2022-04-11T12:44:57+09:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://keishitsuboi.github.io/dark_matter/fr/sitemap.xml</loc>
+    <loc>https://example.org/fr/sitemap.xml</loc>
     
       <lastmod>2022-04-11T12:44:57+09:00</lastmod>
     

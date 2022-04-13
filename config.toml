@@ -5,6 +5,8 @@ defaultContentLanguage = "en"
 # theme
 # 主题
 theme = "LoveIt"
+publishDir = "docs"
+canonifyurls = true
 # themes directory
 # 主题目录
 themesDir = "../.."
@@ -815,7 +817,7 @@ enableEmoji = true
     # Social share links in post page
     # 文章页面的分享信息设置
     [params.page.share]
-      enable = false
+      enable = true
       Twitter = true
       Facebook = true
       Linkedin = false
@@ -850,14 +852,14 @@ enableEmoji = true
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = ""
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
-        enable = false
+        enable = true
         owner = ""
         repo = ""
         clientId = ""
@@ -896,7 +898,7 @@ enableEmoji = true
         width = "100%"
         numPosts = 10
         appId = ""
-        languageCode = ""
+        languageCode = "ja"
       # Telegram comments config (https://comments.app/)
       # Telegram comments 评论系统设置 (https://comments.app/)
       [params.page.comment.telegram]
@@ -911,11 +913,11 @@ enableEmoji = true
       # Commento comment config (https://commento.io/)
       # Commento comment 评论系统设置 (https://commento.io/)
       [params.page.comment.commento]
-        enable = false
+        enable = true
       # Utterances comment config (https://utteranc.es/)
       # Utterances comment 评论系统设置 (https://utteranc.es/)
       [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
         repo = ""
         issueTerm = "pathname"
