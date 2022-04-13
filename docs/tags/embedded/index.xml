@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Embedded - Tag - DARK MATTER</title>
-        <link>https://example.org/tags/embedded/</link>
+        <link>https://keishitsuboi.github.io/dark_matter/tags/embedded/</link>
         <description>Embedded - Tag - DARK MATTER</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>株式会社サイバーディフェンス研究所のエンジニアによるテックブログ</copyright><lastBuildDate>Fri, 03 Dec 2021 17:07:29 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/embedded/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>株式会社サイバーディフェンス研究所のエンジニアによるテックブログ</copyright><lastBuildDate>Fri, 03 Dec 2021 17:07:29 &#43;0900</lastBuildDate><atom:link href="https://keishitsuboi.github.io/dark_matter/tags/embedded/" rel="self" type="application/rss+xml" /><item>
     <title>破壊・フォーマットされたUSBメモリからデータを復旧する</title>
-    <link>https://example.org/%E7%A0%B4%E5%A3%8A/</link>
+    <link>https://keishitsuboi.github.io/dark_matter/%E7%A0%B4%E5%A3%8A/</link>
     <pubDate>Fri, 03 Dec 2021 17:07:29 &#43;0900</pubDate>
     <author>Author</author>
-    <guid>https://example.org/%E7%A0%B4%E5%A3%8A/</guid>
+    <guid>https://keishitsuboi.github.io/dark_matter/%E7%A0%B4%E5%A3%8A/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/nand_controller.jpg" referrerpolicy="no-referrer">
             </div><p>こんにちは、技術部の手島です。
